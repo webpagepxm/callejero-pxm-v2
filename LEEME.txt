@@ -1,0 +1,9 @@
+CALLEJERO PXM — V2 / HOUSE OF YES-INSPIRED STRUCTURE
+
+Este ZIP contiene un diseño ALTERNATIVO. No sustituye tu web actual hasta que lo decidas.
+
+Para publicarlo más adelante: sube index.html, las 5 imágenes .webp, el logo PNG y el video MP4 a un repositorio de PRUEBA, y activa GitHub Pages. No es necesario subir LEEME.txt.
+
+El formulario Guest List funciona visualmente en dos pasos y admite ?rp=rp07 para mostrar atribución de prueba; NO GUARDA NI ENVÍA CONTACTOS. No está conectado con Supabase. No hay fechas ni descuentos inventados.
+
+Para ver la versión autocontenida sin instalar nada: usa CALLEJERO_V2_PREVISUALIZACION.html.
